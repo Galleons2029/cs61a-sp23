@@ -1,2 +1,4 @@
-# Galleons2029 XiangTan Web
-Web design
+# CS61A-spring23
+For more information on this file, see
+https://cs61a.org
+"""
